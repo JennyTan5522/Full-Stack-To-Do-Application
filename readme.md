@@ -13,6 +13,6 @@
 3. View the ToDo List by accessing the following URL in your browser: http://127.0.0.1:8000/todos/
 
 ## Run Vite-React Frontend
-1. cd frontend
+1. cd vite-frontend
 2. npm run dev
 3. View the ToDo List by accessing the following URL in your browser: http://localhost:5173/
