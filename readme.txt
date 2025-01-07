@@ -339,7 +339,7 @@ react-django-todo/
 ├── venv/             # Python virtual environment
 ├── requirements.txt  # Python dependencies
 ├── package.json      # Node.js dependencies
-├── .gitignore        # Git ignore rules
+├── package-lock.json # Node.js dependencies
 ├── README.md         # Project overview and documentation
 
 Django Backend File Structure
